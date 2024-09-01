@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Travel Widget</title>
+</head>
+<body>
+    <script async src="https://c89.travelpayouts.com/content?currency=USD&trs=326105&shmarker=551340&language=en&locale=71631&layout=horizontal&cards=4&powered_by=true&promo_id=3947" charset="utf-8"></script>
+</body>
+</html>
